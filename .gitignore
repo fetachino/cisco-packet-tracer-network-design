@@ -1,0 +1,5 @@
+*.pka
+*.zip
+*.7z
+course-materials/
+credentials.*
